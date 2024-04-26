@@ -10,10 +10,17 @@ To use the File Encryptor, follow these steps:
 2. Make sure you have Python installed.
 3. Install the required dependencies using the following command:
 
-```pip install pycryptodome```
+```pip install cryptodome```
 
 
-4. Run the script `file_encryptor.py` to launch the application.
+4. Create the following empty folders within the project directory:
+- `encrypted`: This folder will contain the encrypted files.
+- `decrypted`: This folder will contain the decrypted files.
+- `plain`: This folder will contain the plain text files to be encrypted.
+
+5. Place the text files you want to encrypt in the `plain` folder.
+
+6. Run the script `file_encryptor.py` to launch the application.
 
 ## Functionality
 
