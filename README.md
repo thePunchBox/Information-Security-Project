@@ -8,8 +8,11 @@ To use the File Encryptor, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed.
-3. Install the required dependencies using pip:
-  pip install pycryptodome
+3. Install the required dependencies using the following command:
+
+```pip install pycryptodome```
+
+
 4. Run the script `file_encryptor.py` to launch the application.
 
 ## Functionality
@@ -48,6 +51,12 @@ To use the File Encryptor, follow these steps:
 
 - **Description:** Decrypts the selected input file using the chosen encryption algorithm and saves the decrypted file to the specified output folder.
 - **Usage:** Click the "Decrypt" button.
+
+## Key Sizes
+
+- **AES (Advanced Encryption Standard):** 128-bit key
+- **3DES (Triple DES):** 168-bit key
+- **DES (Data Encryption Standard):** 56-bit key
 
 ## Contributors
 
