@@ -1,3 +1,7 @@
+## Preview
+
+![Preview](https://raw.githubusercontent.com/thePunchBox/Information-Security-Project/main/preview.png)
+
 # Information-Security-Project
 
 This is a simple file encryption tool developed as part of an Information Security project. It allows users to encrypt and decrypt files using different encryption algorithms such as AES, 3DES, and DES.
