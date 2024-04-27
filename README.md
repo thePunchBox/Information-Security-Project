@@ -10,7 +10,7 @@ To use the File Encryptor, follow these steps:
 2. Make sure you have Python installed.
 3. Install the required dependencies using the following command:
 
-```pip install cryptodome```
+```pip install pycryptodome```
 
 
 4. Create the following empty folders within the project directory:
