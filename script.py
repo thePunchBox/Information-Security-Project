@@ -48,7 +48,7 @@ class FileEncryptorApp:
         self.decrypt_button.grid(row=5, column=1, padx=10, pady=5)
 
         # Footer
-        self.footer_label = tk.Label(master, text="21SW152, 21SW126, 21SW31", fg="gray")
+        self.footer_label = tk.Label(master, text="21SW152, 21SW126, 21SW58", fg="gray")
         self.footer_label.grid(row=6, column=0, columnspan=3, padx=10, pady=5, sticky="se")
 
     def browse_input_file(self):
