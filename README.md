@@ -73,4 +73,4 @@ To use the File Encryptor, follow these steps:
 
 - 21SW152-Rafay Shakeel
 - 21SW126-Mussawir Hussain
-- 21SW038-Zohaib Khoso
+- 21SW058-Mehar Ali
